@@ -1,9 +1,9 @@
 package customModule
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func Version() {
-    fmt.Println("Version 1.1.0")
+	fmt.Println("Version 2.0.1")
 }
